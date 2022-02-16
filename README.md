@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubham Rathore</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+<img align="right" height="250" width="400" alt="GIF" src="GIF/image.gif">
+
+<h3> Here's some fun facts about me: </h3>
 
 
-<p align="left"> <a href="https://twitter.com/shubhamraathore" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamraathore?logo=twitter&style=for-the-badge" alt="shubhamraathore" /></a> </p>
 
 - 🔭 I’m currently working on [okayhealth](https://okayhealth.in)          
 
@@ -32,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theshubhamrathore&show_icons=true&locale=en&layout=compact" alt="theshubhamrathore" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theshubhamrathore&show_icons=true&locale=en" alt="theshubhamrathore" /></p>
+
+### Thank you for visiting my profile 🤓 
