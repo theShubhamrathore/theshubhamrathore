@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shubham Rathore</h1>
+<h1 align="center">Hi, 👋I'm Shubham Rathore</h1>
 <h3 align="center">Co-Founder of Esynct Technologies | Transforming Ideas into Reality</h3>
 
 ---
@@ -27,15 +27,7 @@
 - **Cloud**: AWS, Google Cloud
 - **AI/ML**: OpenAI, TensorFlow, GPT APIs
 - **Tools**: Git, Docker, Kubernetes
-
----
-
-### Projects
-
-- **Esynct Technologies**: Revolutionizing businesses with AI-driven solutions and automation.
-- **Agrosathi**: Empowering farmers with tech solutions for a sustainable future.
-- **IINN**: Building a business and finance-focused news platform for global impact.
-
+  
 ---
 
 ### 🌱 Currently Learning
